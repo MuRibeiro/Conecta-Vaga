@@ -49,3 +49,28 @@ Em suma, o projeto visa transformar a vida das pessoas e torná-las economicamen
 
 [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 > <br> <sub> João Kiala </sub>](https://github.com/Joaopanzo261) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Murilo Ribeiro </sub>](https://github.com/MuRibeiro) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Natanael Bento </sub>](https://github.com/natanael-bento) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Rafael Duarte </sub>](https://github.com/RafaelAstora) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Rebeca Santana </sub>](https://github.com/rebecasantana) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Rony dos Santos </sub>](https://github.com/ronyrst) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Vitoria Busch </sub>](https://github.com/vfpark)
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<div align=center>
+    <table>
+      <thead>
+        <tr>
+          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
+        </tr>
+        <tr>
+          <th><a href='https://github.com/Joaopanzo261' target=blank>João</a></th>
+          <th>Murilo</th>
+          <th>Natanael</th>
+          <th>Rafael</th>
+          <th>Rebeca</th>
+          <th>Rony</th>
+          <th>Vitoria</th>
+        </tr>
+      </thead>
+    </table>
+</div>
