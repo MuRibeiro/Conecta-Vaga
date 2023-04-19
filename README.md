@@ -1,6 +1,6 @@
 <!-- BANNER DO NOSSO PROJETO -->
 <div align=center>
-  <img width=800px height=300px src="https://ik.imagekit.io/6kg1q0s1r/C%C3%B3pia_de_Banners.png?updatedAt=1681922292947"  />
+  <img width=800px height=400px src="https://ik.imagekit.io/6kg1q0s1r/C%C3%B3pia_de_Banners.png?updatedAt=1681922292947"  />
 </div>
 
 
@@ -9,67 +9,73 @@
 <h1 align=center> Sobre o Projeto </h1>
 
 <p align=center>O projeto da ONG ConectaVaga tem como objetivo promover o trabalho decente e a inclusão social de grupos minoritários e em situação de vulnerabilidade, por meio da intermediação de empregadores com profissionais. 
-A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompanhar a jornada dos trabalhadores em busca do seu desenvolvimento profissional e pessoal. 
-Além disso, a ConectaVaga conta com uma rede de parceiros para ajudar nessa jornada de transformação. 
-Em suma, o projeto visa transformar a vida das pessoas e torná-las economicamente ativas e donas de seu próprio destino e carreira.</p>
+A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompanhar a jornada dos trabalhadores em busca do seu desenvolvimento profissional e pessoal. Além disso, a ConectaVaga conta com uma rede de parceiros para ajudar nessa jornada de transformação. Em suma, o projeto visa transformar a vida das pessoas e torná-las economicamente ativas e donas de seu próprio destino e carreira.
+</p>
 
-# Tecnologias utilizadas 
+<h1 align=center> Tecnologias utilizadas </a> 
 <!-- ALGUM BANNER SOBRE TECNOLOGIAS -->
 
-## Back-end
-* Java
-* Spring Boot
-* JPA/ Hibernate
-* Maven 
-* Banco de Dados (SQL)
+<h1 align=center> Back-end </h1>
 
-<div style=inline>
-  <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<div style=inline align=center >
+  <a href='https://docs.oracle.com/en/java/'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  </a>
+  <a href='https://dev.mysql.com/doc/'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  </a>
+  <a href='https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  </a>
 </div>
 <br>
 
-## Front-end
-* HTML/ CSS/ JavaScript
-* ReactJS
 
-<div style=inline>
-  <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<h1  align=center>Front-end</h1>
+
+<div style=inline align=center>
+  <a href='https://developer.mozilla.org/en-US/docs/Glossary/HTML5'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  </a>
+  <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  </a>
+  <a href='https://javascript.info/'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </a>
+  <a href='https://react.dev/blog/2023/03/16/introducing-react-dev'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  </a>
+  <a href='https://www.typescriptlang.org/docs/'>
+   <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </a>
 </div>
   <br>
 
 <!-- ICONES DAS TECNOLOGIAS -->
 
-# Desenvolvedores 
-
-[<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 > <br> <sub> João Kiala </sub>](https://github.com/Joaopanzo261) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Murilo Ribeiro </sub>](https://github.com/MuRibeiro) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Natanael Bento </sub>](https://github.com/natanael-bento) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Rafael Duarte </sub>](https://github.com/RafaelAstora) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Rebeca Santana </sub>](https://github.com/rebecasantana) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Rony dos Santos </sub>](https://github.com/ronyrst) | [<img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100> <br> <sub> Vitoria Busch </sub>](https://github.com/vfpark)
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+<h1 align=center> Desenvolvedores </h1> 
 
 <div align=center>
     <table>
       <thead>
         <tr>
-          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
-          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
-          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
-          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
-          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
-          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
-          <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
+          <th><img src="https://avatars.githubusercontent.com/u/124622333?v=4" width=100 height=100 ></th>
+          <th><img src="https://avatars.githubusercontent.com/u/122796061?v=4" width=100 height=100 ></th>
+          <th><img src="https://avatars.githubusercontent.com/u/123839425?v=4" width=100 height=100 ></th>
+          <th><img src="https://avatars.githubusercontent.com/u/93882803?v=4" width=100 height=100 ></th>
+          <th><img src="https://avatars.githubusercontent.com/u/96356018?v=4" width=100 height=100 ></th>
+          <th><img src="https://avatars.githubusercontent.com/u/41052229?v=4" width=100 height=100 ></th>
+          <th><img src="https://avatars.githubusercontent.com/u/101155320?v=4" width=100 height=100 ></th>
         </tr>
         <tr>
           <th><a href='https://github.com/Joaopanzo261' target="_blank" rel=noreferrer>João</a></th>
-          <th>Murilo</th>
-          <th>Natanael</th>
-          <th>Rafael</th>
-          <th>Rebeca</th>
-          <th>Rony</th>
-          <th>Vitoria</th>
+          <th><a href='https://github.com/MuRibeiro' target="_blank" rel=noreferrer>Murilo</th>
+          <th><a href='https://github.com/natanael-bento' target="_blank" rel=noreferrer>Natanael</th>
+          <th><a href='https://github.com/RafaelAstora' target="_blank" rel=noreferrer>Rafael</th>
+          <th><a href='https://github.com/rebecasantana' target="_blank" rel=noreferrer>Rebeca</th>
+          <th><a href='https://github.com/ronyrst' target="_blank" rel=noreferrer>Rony</th>
+          <th><a href='https://github.com/vfpark' target="_blank" rel=noreferrer>Vitoria</th>
         </tr>
       </thead>
     </table>
