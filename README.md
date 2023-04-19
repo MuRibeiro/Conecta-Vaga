@@ -63,7 +63,7 @@ Em suma, o projeto visa transformar a vida das pessoas e torná-las economicamen
           <th><img src="https://ik.imagekit.io/6kg1q0s1r/usuario.png?updatedAt=1681419914309" width=100 height=100 ></th>
         </tr>
         <tr>
-          <th><a href='https://github.com/Joaopanzo261' target="_blank">João</a></th>
+          <th><a href='https://github.com/Joaopanzo261' target="_blank" rel=noreferrer>João</a></th>
           <th>Murilo</th>
           <th>Natanael</th>
           <th>Rafael</th>
