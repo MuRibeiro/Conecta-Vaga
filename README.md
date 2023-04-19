@@ -12,7 +12,7 @@
 A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompanhar a jornada dos trabalhadores em busca do seu desenvolvimento profissional e pessoal. Além disso, a ConectaVaga conta com uma rede de parceiros para ajudar nessa jornada de transformação. Em suma, o projeto visa transformar a vida das pessoas e torná-las economicamente ativas e donas de seu próprio destino e carreira.
 </p>
 
-## Table of Contents
+## Índice
 
 <p align="center">
  <a href="#about">About</a> •
@@ -21,7 +21,7 @@ A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompa
  <a href="#installation">Installation</a> • 
  <a href="#getting-started">Get Started</a> • 
  <a href="#technologies">Technologies</a> • 
- <a href="Desenvolvedores">License</a>
+ <a href="#desenvolvedores">License</a>
 </p>
 
 
@@ -67,7 +67,8 @@ A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompa
 
 <!-- ICONES DAS TECNOLOGIAS -->
 
-<h1 align=center> Desenvolvedores </h1> 
+<!--<h1 align=center> Desenvolvedores </h1> -->
+## Desenvolvedores
 
 <div align=center>
     <table>
