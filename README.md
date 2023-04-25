@@ -16,10 +16,10 @@ A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompa
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
- <a href="#features">Features</a> •
- <a href="#revised-concepts">Revised Concepts</a> • 
- <a href="#installation">Installation</a> • 
- <a href="#getting-started">Get Started</a> • 
+ <a href="#">Features</a> •
+ <a href="#">Revised Concepts</a> • 
+ <a href="#">Installation</a> • 
+ <a href="#">Get Started</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#desenvolvedores">Desenvolvedores</a>
 </p>
