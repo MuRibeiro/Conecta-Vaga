@@ -1,4 +1,4 @@
-<!-- BANNER DO NOSSO PROJETO -->
+
 <div align=center>
   <img width=800px height=400px src="https://ik.imagekit.io/6kg1q0s1r/C%C3%B3pia_de_Banners.png?updatedAt=1681922292947"  />
 </div>
@@ -23,6 +23,10 @@ A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompa
 </p>
 
 ## ODS
+
+<div align=center>
+  <img width=1000px height=400px src="https://ik.imagekit.io/ohu04lxwc/banner.png?updatedAt=1682440755323"  />
+</div>
 
 ## Documentação
 
