@@ -16,13 +16,13 @@ A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompa
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
- <a href="#">Features</a> •
- <a href="#">Revised Concepts</a> • 
- <a href="#">Installation</a> • 
- <a href="#">Get Started</a> • 
+ <a href="#ods">ODS</a> •
+ <a href="#documentação">Documentação</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#desenvolvedores">Desenvolvedores</a>
 </p>
+
+## ODS
 
 ## Documentação
 
