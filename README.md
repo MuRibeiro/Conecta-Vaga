@@ -74,13 +74,13 @@ A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompa
     <table>
       <thead>
         <tr>
-          <th><img src="https://avatars.githubusercontent.com/u/124622333?v=4" width=100 height=100 ></th>
-          <th><img src="https://avatars.githubusercontent.com/u/122796061?v=4" width=100 height=100 ></th>
-          <th><img src="https://avatars.githubusercontent.com/u/123839425?v=4" width=100 height=100 ></th>
-          <th><img src="https://avatars.githubusercontent.com/u/93882803?v=4" width=100 height=100 ></th>
-          <th><img src="https://avatars.githubusercontent.com/u/96356018?v=4" width=100 height=100 ></th>
-          <th><img src="https://avatars.githubusercontent.com/u/41052229?v=4" width=100 height=100 ></th>
-          <th><img src="https://avatars.githubusercontent.com/u/101155320?v=4" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/ohu04lxwc/Jo%C3%A3o.png?updatedAt=1682437106557" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/ohu04lxwc/Murilo.png?updatedAt=1682436496134" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/ohu04lxwc/Natanael.png?updatedAt=1682436969106" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/ohu04lxwc/Rafael.png?updatedAt=1682437335311" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/ohu04lxwc/Rebeca.png?updatedAt=1682436742670" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/ohu04lxwc/Rony.png?updatedAt=1682436500390" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/ohu04lxwc/Vitoria.png?updatedAt=1682436746882" width=100 height=100 ></th>
         </tr>
         <tr>
           <th><a href='https://github.com/Joaopanzo261' target="_blank" rel=noreferrer>João</a></th>
