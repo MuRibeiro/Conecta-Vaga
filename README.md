@@ -6,7 +6,7 @@
 
 <!-- LOGO -->
 
-<h1 align=center> Sobre o Projeto </h1>
+## Sobre 
 
 <p align=center>O projeto da ONG ConectaVaga tem como objetivo promover o trabalho decente e a inclusão social de grupos minoritários e em situação de vulnerabilidade, por meio da intermediação de empregadores com profissionais. 
 A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompanhar a jornada dos trabalhadores em busca do seu desenvolvimento profissional e pessoal. Além disso, a ConectaVaga conta com uma rede de parceiros para ajudar nessa jornada de transformação. Em suma, o projeto visa transformar a vida das pessoas e torná-las economicamente ativas e donas de seu próprio destino e carreira.
@@ -15,17 +15,17 @@ A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompa
 ## Índice
 
 <p align="center">
- <a href="#about">About</a> •
+ <a href="#sobre">Sobre</a> •
  <a href="#features">Features</a> •
  <a href="#revised-concepts">Revised Concepts</a> • 
  <a href="#installation">Installation</a> • 
  <a href="#getting-started">Get Started</a> • 
- <a href="#technologies">Technologies</a> • 
- <a href="#desenvolvedores">License</a>
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#desenvolvedores">Desenvolvedores</a>
 </p>
 
 
-<h1 align=center> Tecnologias utilizadas </a> 
+## Tecnologias  
 <!-- ALGUM BANNER SOBRE TECNOLOGIAS -->
 
 <h1 align=center> Back-end </h1>
@@ -65,7 +65,7 @@ A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompa
 </div>
   <br>
 
-<!-- ICONES DAS TECNOLOGIAS -->
+
 
 <!--<h1 align=center> Desenvolvedores </h1> -->
 ## Desenvolvedores
